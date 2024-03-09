@@ -1,0 +1,8 @@
+exclude:
+  - ".gitignore"
+  - "README.md"
+  - ".ruby-version"
+
+title: Amogus
+author:
+  name: DOC
