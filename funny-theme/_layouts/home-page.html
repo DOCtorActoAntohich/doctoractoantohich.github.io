@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en-US">
+
+{% include head-attributes.html %}
+
+<body>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+        <hr />
+    </header>
+
+    <div class="content-wrapper">
+        {{ content }}
+
+        {% include navigation.html %}
+    </div>
+
+    {% include footer.html %}
+</body>
+
+</html>

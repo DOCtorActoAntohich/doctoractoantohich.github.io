@@ -1,0 +1,21 @@
+@import "colors";
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    padding: 5px 10px;
+    border-bottom: 1px solid $table-line-color;
+    color: $important-text-color;
+    font-family: "OpenSansSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-weight: normal;
+}
+
+td {
+    text-align: left;
+    padding: 5px 10px;
+    border-bottom: 1px solid $table-line-color;
+}
