@@ -2,7 +2,12 @@ exclude:
   - ".gitignore"
   - "README.md"
   - ".ruby-version"
+  - "Makefile"
+  - "funny-theme"
 
-title: Amogus
+title: "DOC-space"
+description: My personal space that has everything you don't need.
 author:
   name: DOC
+
+theme: funny-theme

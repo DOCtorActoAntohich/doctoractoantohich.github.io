@@ -1,13 +1,9 @@
 ---
-title: amogus
-tagline: stuff
-description: test
+layout: home-page
+title: Central Space
+description: A hub location from where all doors are open.
 ---
 
-## Balling
+## Home
 
-we indeed are
-
-## Credits
-
-not yet
+Welcome, resident.
