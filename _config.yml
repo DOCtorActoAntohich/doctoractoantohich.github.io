@@ -8,3 +8,12 @@ title: "DOC's Space"
 description: Here you can find everything you don't need.
 author:
   name: DOC
+
+include:
+  - content
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
