@@ -1,5 +1,4 @@
 from pathlib import Path
-from typing import Iterator, TypeAlias
 
 CONTENT_PATH = Path("content")
 
