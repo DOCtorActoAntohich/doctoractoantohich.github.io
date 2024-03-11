@@ -8,4 +8,4 @@ clean:
 	rm -rf .jekyll-cache
 
 nav:
-	python generate_navigation.py
+	python scripts/generate_navigation.py
