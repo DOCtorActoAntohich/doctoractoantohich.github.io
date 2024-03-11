@@ -3,11 +3,8 @@ exclude:
   - "README.md"
   - ".ruby-version"
   - "Makefile"
-  - "funny-theme"
 
-title: "DOC-space"
-description: My personal space that has everything you don't need.
+title: "DOC's Space"
+description: Here you can find everything you don't need.
 author:
   name: DOC
-
-theme: funny-theme

@@ -28,5 +28,5 @@ gem install github-pages
 Then run this and do what it says.
 
 ```bash
-jekyll serve
+make serve
 ```
