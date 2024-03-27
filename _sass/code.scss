@@ -1,10 +1,10 @@
 @import "colors";
-@import "rouge-base16-dark";
+@import "github-dark";
 
 code {
     font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
-    color: $regular-text-color;
-    background-color: $code-block-background-color;
+    // color: $regular-text-color;
+    // background-color: $code-block-background-color;
     font-size: 13px;
     padding: 4px 6px;
     border-radius: 2px;
@@ -12,14 +12,14 @@ code {
 
 pre {
     padding: 8px 15px;
-    background: $code-block-background-color;
+    // background: $code-block-background-color;
     border-radius: 2px;
     border: 2px solid $code-block-border-color;
     overflow: auto;
     overflow-y: hidden;
 
     code {
-        color: $unhighlighted-code-color;
+        // color: $unhighlighted-code-color;
         margin: 0;
         padding: 0;
     }
