@@ -9,6 +9,7 @@ exclude:
   - Makefile
   - .ruby-version
   - Gemfile
+  - vendor # jekyll posts fuck off.
 
 plugins:
   - jekyll-redirect-from
