@@ -1,5 +1,11 @@
 @import "colors";
 
+.home-page-link {
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 header {
     width: 60%;
     margin: 0 auto;
@@ -19,5 +25,11 @@ header {
 
     p {
         margin-left: 10px;
+    }
+}
+
+@media (orientation: portrait) {
+    header {
+        width: 100%;
     }
 }

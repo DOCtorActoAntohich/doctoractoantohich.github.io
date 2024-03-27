@@ -4,17 +4,20 @@
 {% include head-attributes.html %}
 
 <body>
-    <div class="home-page-link">
-        <a href="{{site.url}}/content">Home page</a>
-    </div>
-
     <header>
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
+        <div class="home-page-link">
+            <a href="{{site.url}}/content">>> Go to Home page</a>
+        </div>
         <hr />
     </header>
 
-    {% include content-wrapper.html %}
+    
+    <div class="content-wrapper">
+        {{ content }}
+    </div>
+
     {% include footer.html %}
 </body>
 
