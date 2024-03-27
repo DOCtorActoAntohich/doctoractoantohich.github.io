@@ -13,3 +13,13 @@ It's just an experiment for myself, and a place to leave a bunch of notes or may
 I just don't want to pay for hosting or do typescript lol
 
 Maybe you'll find some useful stuff here. No promises though.
+
+## Pages
+
+### Groups
+
+- [Python](./python)
+
+## Credits
+
+Check [this page](./credits).
