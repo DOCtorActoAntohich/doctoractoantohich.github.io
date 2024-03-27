@@ -16,6 +16,9 @@ Maybe you'll find some useful stuff here. No promises though.
 
 ## Pages
 
+Not much yet but here's some very advanced navigation that I made myself
+(with hands).
+
 ### Groups
 
 - [Python](./python)
