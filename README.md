@@ -5,7 +5,7 @@ Got nothing better to do basically.
 
 ## How to run locally
 
-In case I forget.
+I will forget it.
 
 Run this to install stuff.
 
@@ -13,10 +13,11 @@ Run this to install stuff.
 brew install chruby ruby-install xz
 ```
 
-Now install ruby version from [`.ruby-version`](./.ruby-version)
+Install ruby version from [`.ruby-version`](./.ruby-version) and activate it.
 
 ```bash
 ruby-install ruby 3.1.3
+chruby ruby-3.1.3
 ```
 
 Then just install this.
