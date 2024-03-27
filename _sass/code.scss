@@ -24,3 +24,13 @@ pre {
         padding: 0;
     }
 }
+
+a code {
+    background-color: $monospace-link-background-color;
+    color: $monospace-link-color;
+
+    &:hover {
+        color: $monospace-link-hover-color;
+        text-decoration: underline;
+    }
+}
