@@ -1,17 +1,14 @@
-exclude:
-  - ".gitignore"
-  - "README.md"
-  - ".ruby-version"
-  - "Makefile"
-  - Gemfile
-
 title: "DOC's Space"
 description: Here you can find everything you don't need.
 author:
   name: DOC
 
-include:
-  - content
+exclude:
+  - .gitignore
+  - README.md
+  - Makefile
+  - .ruby-version
+  - Gemfile
 
 plugins:
   - jekyll-redirect-from
