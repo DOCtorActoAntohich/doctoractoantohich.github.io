@@ -14,6 +14,8 @@ I just don't want to pay for hosting or do typescript lol
 
 Maybe you'll find some useful stuff here. No promises though.
 
+Also I suck as visual design so please be very harsh and judge me for it.
+
 ## Pages
 
 Not much yet but here's some very advanced navigation that I made myself
