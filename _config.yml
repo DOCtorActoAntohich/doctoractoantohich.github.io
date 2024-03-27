@@ -3,7 +3,7 @@ exclude:
   - "README.md"
   - ".ruby-version"
   - "Makefile"
-  - "_posts"
+  - Gemfile
 
 title: "DOC's Space"
 description: Here you can find everything you don't need.
