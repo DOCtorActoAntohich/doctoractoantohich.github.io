@@ -9,6 +9,3 @@ vendor/
 .DS_Store
 
 Gemfile.lock
-
-# the uglist solution (i suck)
-__navigation.md
