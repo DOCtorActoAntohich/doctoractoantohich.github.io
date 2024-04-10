@@ -1,3 +1,3 @@
 ---
-redirect_to: ./content
+redirect_to: https://doctoractoantohich.github.io/content
 ---
