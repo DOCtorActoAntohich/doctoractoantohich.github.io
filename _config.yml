@@ -4,6 +4,8 @@ author:
   name: DOC
 repository: DOCtorActoAntohich/doctoractoantohich.github.io
 
+url: https://doctoractoantohich.github.io
+
 exclude:
   - .gitignore
   - README.md
