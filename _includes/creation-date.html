@@ -1,0 +1,4 @@
+{% if page.created_at %}
+    <p>Created at: {{page.created_at}}</p>
+    <p>Last modified at: {{ page.last_modified_at | date: "%Y-%m-%d" }}</p>
+{% endif %}
