@@ -2,6 +2,7 @@
 title: Multiple Git Accounts
 description: Settings up commit email per directory
 layout: standard
+created_at: 2024-04-10
 ---
 
 You can change your commit name and email on per directory basis.
