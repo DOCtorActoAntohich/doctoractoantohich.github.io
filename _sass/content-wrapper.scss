@@ -6,6 +6,11 @@
     padding-top: 10px;
 }
 
+.content-wrapper img {
+    max-width: 100%;
+    height: auto;
+}
+
 @media (orientation: portrait) {
     .content-wrapper {
         max-width: 100%;
