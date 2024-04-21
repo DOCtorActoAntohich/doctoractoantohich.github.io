@@ -1,5 +1,5 @@
 ---
-layout: home-page
+layout: standard
 title: Notes
 description: Personal notes I need for myself. Sometimes.
 ---
