@@ -1,4 +1,6 @@
 {% if page.created_at %}
-    <p>Created at: {{page.created_at}}</p>
-    <p>Last modified at: {{ page.last_modified_at | date: "%Y-%m-%d" }}</p>
+    <ul class="creation-date-items">
+        <li>Created at: <b>{{page.created_at}}</b></li>
+        <li>Last modified at: <b>{{ page.last_modified_at | date: "%Y-%m-%d" }}</b></li>
+    </ul>
 {% endif %}
